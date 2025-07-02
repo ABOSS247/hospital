@@ -1,4 +1,4 @@
-# Ignore Python virtual environments
+git add .# Ignore Python virtual environments
 myenv/
 hospitalvenv/
 
